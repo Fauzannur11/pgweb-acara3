@@ -1,2 +1,2 @@
 # pgweb-acara3
-Belajar javascript
+Belajar javascript untuk memajukan negara indonesia
